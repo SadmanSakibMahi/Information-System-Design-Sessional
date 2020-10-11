@@ -1,1 +1,1 @@
-A project on Coaching center management center
+A project on Coaching center management system
